@@ -1,0 +1,29 @@
+{
+  "characters": [
+    {
+      "name": "Batman",
+      "isfiend": true,
+      "age": 26
+    },
+    {
+      "name": "Jocker",
+      "age": 43,
+      "isfiend": true
+    },
+    {
+      "name": "El pingüino",
+      "age": 43,
+      "isfiend": false
+    },
+    {
+      "name": "Harley quinn",
+      "age": 43,
+      "isfiend": false
+    },
+    {
+      "name": "Catwoman",
+      "age": 43,
+      "isfiend": true
+    }
+  ]
+}
