@@ -7,22 +7,22 @@
       "age": 26,
       "image": "https://pngimg.com/uploads/batman/batman_PNG40.png",
       "alternativeText": "",
-      "zodiacSign": "aries",
-      "favouritePet": "bat",
-      "favouriteDrink": "daikiri",
+      "zodiacSign": "Aries",
+      "favouritePet": "Bat",
+      "favouriteDrink": "Daikiri",
       "vehicle": "batmovil"
     },
     {
       "id": 2,
       "name": "Jocker",
       "age": 43,
-      "isfiend": true,
+      "isFriend": true,
       "image": "https://s2.qwant.com/thumbr/0x380/5/7/87798c527bad823853d0093f6624b7999b65e73faca2d612057f2487925605/sd2887-the-joker-tin-sign-dc-comics-suicide-squad-batman-villian-comic-books.jpeg?u=http%3A%2F%2Fassets.suredone.com%2F1868%2Fmedia-photos%2Fsd2887-the-joker-tin-sign-dc-comics-suicide-squad-batman-villian-comic-books.jpeg&q=0&b=1&p=0&a=0",
       "alternativeText": "",
-      "zodiacSign": "virgo",
-      "favouritePet": "dog",
-      "favouriteDrink": "blood",
-      "vehicle": "motorbike"
+      "zodiacSign": "Virgo",
+      "favouritePet": "Dog",
+      "favouriteDrink": "Blood",
+      "vehicle": "Motorbike"
     },
     {
       "id": 3,
@@ -32,21 +32,21 @@
       "image": "https://s1.qwant.com/thumbr/0x380/0/7/2553f57fcc8567b57ff15116bc65891293f812b801a3464f315c3fc01784ae/penguin-batman-comic-book-superhero-dc-animated-universe-png-favpng-10pQ3XNtcqx2kKnNu8whqbUNF.jpg?u=https%3A%2F%2Fimg.favpng.com%2F14%2F7%2F14%2Fpenguin-batman-comic-book-superhero-dc-animated-universe-png-favpng-10pQ3XNtcqx2kKnNu8whqbUNF.jpg&q=0&b=1&p=0&a=0",
       "alternativeText": "",
       "zodiacSign": "tauro",
-      "favouritePet": "pingüin",
+      "favouritePet": "Penguin",
       "favouriteDrink": "Ice tea",
-      "vehicle": "trineo"
+      "vehicle": "Trineo"
     },
     {
       "id": 4,
-      "name": "Harley quinn",
+      "name": "Harley Quinn",
       "age": 43,
       "isFriend": false,
       "image": "https://www.seekpng.com/png/detail/400-4005343_harley-quinn-by-tacos67-harley-quinn-png-comic.png",
       "alternativeText": "",
-      "zodiacSign": "leo",
-      "favouritePet": "hawk",
-      "favouriteDrink": "beer",
-      "vehicle": "bike"
+      "zodiacSign": "Leo",
+      "favouritePet": "Hawk",
+      "favouriteDrink": "Beer",
+      "vehicle": "Bike"
     },
     {
       "id": 5,
@@ -55,9 +55,9 @@
       "isFriend": true,
       "image": "https://s1.qwant.com/thumbr/0x380/8/a/5464f948fa7c06f36be8ba5661f599b7b450d7835bd2f0854222c46aee117b/Catwoman-dc-comics-14289097-627-1024.jpg?u=http%3A%2F%2Fimages2.fanpop.com%2Fimage%2Fphotos%2F14200000%2FCatwoman-dc-comics-14289097-627-1024.jpg&q=0&b=1&p=0&a=0",
       "alternativeText": "",
-      "zodiacSign": "libra",
-      "favouritePet": "cat",
-      "favouriteDrink": "mojito",
+      "zodiacSign": "Libra",
+      "favouritePet": "Cat",
+      "favouriteDrink": "Mojito",
       "vehicle": "catbike"
     }
   ]
